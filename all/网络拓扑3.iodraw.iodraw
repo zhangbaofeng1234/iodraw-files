@@ -186,17 +186,8 @@
         <mxCell id="6a7d8f32e03d9370-62" value="Citrix Network Architecture" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="499" y="30" width="861" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q_MPYWD2p6-aCVOEO4KE-3" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.gateway" parent="1" vertex="1">
-          <mxGeometry x="120" y="995" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="q_MPYWD2p6-aCVOEO4KE-4" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_farm" parent="1" vertex="1">
           <mxGeometry x="380" y="980" width="50" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="q_MPYWD2p6-aCVOEO4KE-5" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.settings" parent="1" vertex="1">
-          <mxGeometry x="380" y="970" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="q_MPYWD2p6-aCVOEO4KE-6" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server_rack" parent="1" vertex="1">
-          <mxGeometry x="499" y="810" width="170" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
