@@ -189,8 +189,17 @@
         <mxCell id="q_MPYWD2p6-aCVOEO4KE-1" value="" style="shape=mxgraph.cisco.computers_and_peripherals.microphone;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="557" y="1126" width="80" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="q_MPYWD2p6-aCVOEO4KE-3" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#66FFB3;shape=mxgraph.mscae.enterprise.gateway" vertex="1" parent="1">
+        <mxCell id="q_MPYWD2p6-aCVOEO4KE-3" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.gateway" vertex="1" parent="1">
           <mxGeometry x="120" y="995" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q_MPYWD2p6-aCVOEO4KE-4" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_farm" vertex="1" parent="1">
+          <mxGeometry x="380" y="980" width="50" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="q_MPYWD2p6-aCVOEO4KE-5" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.settings" vertex="1" parent="1">
+          <mxGeometry x="380" y="970" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q_MPYWD2p6-aCVOEO4KE-6" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server_rack" vertex="1" parent="1">
+          <mxGeometry x="499" y="810" width="170" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
