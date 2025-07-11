@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6">
-    <mxGraphModel dx="12210" dy="8710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3489" dy="2489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -983,7 +983,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9h7F-Yi-_joVcEEjcn_f-56" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7316.svg;html=1;labelBackgroundColor=#ffffff;rackUnitSize=16.7;resizable=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="191.79" width="178" height="347" as="geometry" />
+          <mxGeometry x="6690" y="194" width="178" height="347" as="geometry" />
         </mxCell>
         <mxCell id="9h7F-Yi-_joVcEEjcn_f-57" value="" style="opacity=0;container=1;collapsible=0;childLayout=rack;rackUnitSize=16.7;allowGaps=1;marginLeft=0;marginRight=0;marginTop=0;marginBottom=0;textColor=#666666;numDisp=off;resizable=0;movable=0;" parent="9h7F-Yi-_joVcEEjcn_f-56" vertex="1">
           <mxGeometry x="8" y="10" width="162" height="133.6" as="geometry" />
@@ -1019,7 +1019,7 @@
           <mxGeometry y="50.099999999999994" width="162" height="16.7" as="geometry" />
         </mxCell>
         <mxCell id="9h7F-Yi-_joVcEEjcn_f-68" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7308.svg;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;container=1;collapsible=0;childLayout=rack;rackUnitSize=16.7;allowGaps=1;marginLeft=8;marginRight=8;marginTop=27;marginBottom=22;textColor=#666666;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="340" y="324" width="178" height="214.58" as="geometry" />
+          <mxGeometry x="6940" y="326.21" width="178" height="214.58" as="geometry" />
         </mxCell>
         <mxCell id="9h7F-Yi-_joVcEEjcn_f-69" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7050Q-16.svg;aspect=fixed;" parent="9h7F-Yi-_joVcEEjcn_f-68" vertex="1">
           <mxGeometry x="8" y="27" width="162" height="16.7" as="geometry" />
@@ -1043,7 +1043,7 @@
           <mxGeometry x="8" y="143.89999999999998" width="162" height="16.7" as="geometry" />
         </mxCell>
         <mxCell id="9h7F-Yi-_joVcEEjcn_f-76" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7304.svg;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;container=1;collapsible=0;childLayout=rack;rackUnitSize=16.7;allowGaps=1;marginLeft=8;marginRight=8;marginTop=27;marginBottom=22;textColor=#666666;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="580" y="407" width="178" height="131.79" as="geometry" />
+          <mxGeometry x="7180" y="409.21" width="178" height="131.79" as="geometry" />
         </mxCell>
         <mxCell id="9h7F-Yi-_joVcEEjcn_f-77" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7500E-12CM-LC.svg;aspect=fixed;" parent="9h7F-Yi-_joVcEEjcn_f-76" vertex="1">
           <mxGeometry x="8" y="27" width="162" height="16.7" as="geometry" />
@@ -1055,13 +1055,13 @@
           <mxGeometry x="8" y="60.4" width="162" height="16.7" as="geometry" />
         </mxCell>
         <mxCell id="9h7F-Yi-_joVcEEjcn_f-80" value="Arista rack equipment layout" style="text;html=1;resizable=1;points=[];autosize=0;align=left;verticalAlign=top;spacingTop=-4;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="60" y="60" width="580" height="30" as="geometry" />
+          <mxGeometry x="6660" y="62.21" width="580" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9h7F-Yi-_joVcEEjcn_f-81" value="Location:" style="text;html=1;resizable=1;points=[];autosize=0;align=left;verticalAlign=middle;spacingTop=-4;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="60" y="100" width="580" height="30" as="geometry" />
+          <mxGeometry x="6660" y="102.21" width="580" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9h7F-Yi-_joVcEEjcn_f-82" value="Investor:" style="text;html=1;resizable=1;points=[];autosize=0;align=left;verticalAlign=middle;spacingTop=-4;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="60" y="130" width="580" height="30" as="geometry" />
+          <mxGeometry x="6660" y="132.21" width="580" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b11YLoMoDf0car7KHOn5-1" value="Outside Networks" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="5447" y="390" width="493" height="360" as="geometry" />
