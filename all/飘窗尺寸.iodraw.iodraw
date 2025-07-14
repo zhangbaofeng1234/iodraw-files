@@ -198,6 +198,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Efb2fEfjpprmbZhG0djU-12" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="350" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
