@@ -212,8 +212,8 @@
         </mxCell>
         <mxCell id="ag0ICdSavC8xGNnoov59-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#999999;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-670" y="340" as="sourcePoint" />
-            <mxPoint x="-210" y="340" as="targetPoint" />
+            <mxPoint x="-680" y="340" as="sourcePoint" />
+            <mxPoint x="-220" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ag0ICdSavC8xGNnoov59-5" value="&lt;font color=&quot;#999999&quot; style=&quot;font-size: 20px;&quot;&gt;1755&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ag0ICdSavC8xGNnoov59-2" vertex="1" connectable="0">
@@ -231,6 +231,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-210" y="350" as="sourcePoint" />
             <mxPoint x="-210" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-210" y="340" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
