@@ -502,6 +502,18 @@
             <mxPoint x="-740" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5YQnuq5YpEF984Np8CqW-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-770" y="80" as="sourcePoint" />
+            <mxPoint x="-600" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YQnuq5YpEF984Np8CqW-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-560" y="240" as="sourcePoint" />
+            <mxPoint x="-510" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
