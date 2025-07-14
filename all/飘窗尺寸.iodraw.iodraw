@@ -94,7 +94,7 @@
         </mxCell>
         <mxCell id="5YQnuq5YpEF984Np8CqW-27" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;45&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5YQnuq5YpEF984Np8CqW-26" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-5" y="20" as="offset" />
+            <mxPoint y="20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5YQnuq5YpEF984Np8CqW-28" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
