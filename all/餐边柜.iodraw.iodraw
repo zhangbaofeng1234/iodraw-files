@@ -244,7 +244,12 @@
         </mxCell>
         <mxCell id="LDRQe8lOqXVcIYLHQ_gb-2" value="&lt;font color=&quot;#999999&quot; style=&quot;font-size: 20px;&quot;&gt;1770&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LDRQe8lOqXVcIYLHQ_gb-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-70" y="-100" as="offset" />
+            <mxPoint x="-5" y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDRQe8lOqXVcIYLHQ_gb-9" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LDRQe8lOqXVcIYLHQ_gb-1">
+          <mxGeometry x="0.0249" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LDRQe8lOqXVcIYLHQ_gb-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
