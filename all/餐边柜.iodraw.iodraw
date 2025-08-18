@@ -240,9 +240,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-670" y="720" as="sourcePoint" />
             <mxPoint x="-220" y="720" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-430" y="720" />
-            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDRQe8lOqXVcIYLHQ_gb-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LDRQe8lOqXVcIYLHQ_gb-1">
+          <mxGeometry x="-0.2178" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LDRQe8lOqXVcIYLHQ_gb-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
