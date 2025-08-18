@@ -259,7 +259,7 @@
             <mxPoint x="-540" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LDRQe8lOqXVcIYLHQ_gb-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;90&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LDRQe8lOqXVcIYLHQ_gb-5">
+        <mxCell id="LDRQe8lOqXVcIYLHQ_gb-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;900&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LDRQe8lOqXVcIYLHQ_gb-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-14" as="offset" />
           </mxGeometry>
@@ -270,7 +270,7 @@
             <mxPoint x="-540" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LDRQe8lOqXVcIYLHQ_gb-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;30&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="LDRQe8lOqXVcIYLHQ_gb-7">
+        <mxCell id="LDRQe8lOqXVcIYLHQ_gb-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;300&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="LDRQe8lOqXVcIYLHQ_gb-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="20" as="offset" />
           </mxGeometry>
